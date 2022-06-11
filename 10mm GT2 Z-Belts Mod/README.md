@@ -1,10 +1,14 @@
-<b>10mm GT2 Z-Belts Mod</b>
+<b>10mm GT2 Z-Belts Mod (Voron v2.4r2)</b>
 
 During an attempt to self-source a Voron v2.4r2. I've found that the local seller only sell 6mm and 10mm GT2 belt and pulley while the BOM specified a 9mm Z-belt and pulley. So I decieded to go with 10mm belt and pulley only to found out that the pathway through the A and B motor mount was too narrow for a 10mm belt. 
 
 But surprisingly, All the pulley and idler related parts are fine. So I've edit the STL file in blender by slightly enlarged the belt pathway and the gripping notch.
 
+<img src="voron24_10mm_1.jpg" alt="My Voron2.4" width=600 />
+
 My Voron v2.4r2 is now working but is still in process of making so USE AT YOUR OWN RISK.
+
+<img src="voron24_10mm_2.jpg" alt="10mm GT2 Belts" width=600 />
 
 <b>FAQ</b><br>
 - <b>No CAD files?</b><br>
